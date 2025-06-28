@@ -75,10 +75,10 @@ superstore-sales-analysis/
 ## 📊 Sample Visualizations
 
 ### Top 10 Products by Sales
-![Top Products](./visuals/top_products.png)
+![Top Products](visuals/Visualization Bar chart for top products.png)
 
 ### Monthly Sales Trends
-![Monthly Sales](./visuals/monthly_sales_trend.png)
+![Monthly Sales](visuals/Line chart for sales trend.png)
 
 ## 🎬 Presentation Video
 
