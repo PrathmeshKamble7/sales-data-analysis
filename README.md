@@ -35,7 +35,7 @@ superstore-sales-analysis/
 ├── sql/                 # SQL query scripts
 ├── visuals/             # Saved charts and images
 ├── README.md            # Project overview
-└── presentation.mp4     # Final recorded explanation (to be added)
+└── presentation.mp4     # Final recorded explanation 
 ```
 
 ---
@@ -63,6 +63,28 @@ superstore-sales-analysis/
 - Bar charts for top products
 - Line charts for sales trends
 - Heatmaps for regional sales
+
+## 🔍 Key Insights
+
+- 📈 The **West** region contributed the highest profit overall.
+- 🛒 The **Technology** category was the most profitable product line.
+- 📆 **December** showed peak sales, indicating strong year-end buying patterns.
+- 👤 The **Top 5 customers** contributed over **25%** of the total revenue.
+- 🎯 **Office Supplies** had high sales volume but lower profit margins, suggesting over-discounting.
+
+## 📊 Sample Visualizations
+
+### Top 10 Products by Sales
+![Top Products](./visuals/top_products.png)
+
+### Monthly Sales Trends
+![Monthly Sales](./visuals/monthly_sales_trend.png)
+
+## 🎬 Presentation Video
+
+👉 [Click here to watch our final video](//drive.google.com/your-presentation-link)
+
+Or view the file in the `/presentation/` folder.
 
 ---
 
